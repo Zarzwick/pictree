@@ -1,0 +1,17 @@
+# Compilation folders.
+dist-newstyle/
+dist/
+
+# Possible logs from happy.
+*.info
+
+# Possible files from tests.
+*.tex
+
+# Eventual png images.
+*.png
+
+# WIP features.
+src/kiwi/
+src/Types.hs
+
